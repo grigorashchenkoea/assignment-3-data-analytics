@@ -10,8 +10,6 @@ This repository contains the notebook, report, and reproducibility information f
 
 ## How to reproduce (high level)
 1. Create the environment:
-   - `conda env create -f environment.yml`
-   or  
    - `pip install -r requirements.txt`
 2. Obtain the dataset as described in `data/README.md`.
 3. Run `notebooks/AmesHousing_Assignment.ipynb` top-to-bottom.
