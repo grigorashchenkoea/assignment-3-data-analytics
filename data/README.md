@@ -1,6 +1,6 @@
 # Data
 
-This repository uses the Ames Housing dataset (Kaggle / original source).
+This repository uses the Ames Housing dataset ([Kaggle / original source](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset)).
 Due to licensing and size constraints, raw data is not stored here.
 
 To reproduce:
