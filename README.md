@@ -9,8 +9,7 @@ This repository contains the notebook, report, and reproducibility information f
 - `requirements.txt` or `environment.yml`: environment specification
 
 ## How to reproduce (high level)
-1. Create the environment:
-   - `pip install -r requirements.txt`
+1. `pip install -r requirements.txt`
 2. Obtain the dataset as described in `data/README.md`.
 3. Run `notebooks/AmesHousing_Assignment.ipynb` top-to-bottom.
 
