@@ -6,7 +6,7 @@ This repository contains the notebook, report, and reproducibility information f
 - `notebooks/`: final Jupyter notebook with the complete pipeline and KG provenance logging
 - `report/`: final PDF report (CRISP-DM stages 1–7)
 - `data/`: instructions for obtaining the dataset (raw data not included)
-- `requirements.txt` or `environment.yml`: environment specification
+- `requirements.txt`: environment specification
 
 ## How to reproduce (high level)
 1. `pip install -r requirements.txt`
