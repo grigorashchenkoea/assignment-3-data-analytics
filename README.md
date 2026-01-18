@@ -1,6 +1,6 @@
 # BI2025 – Ames Housing
 
-This repository contains the notebook, report, and reproducibility information for the BI2025 Data Analytics assignment.
+This repository contains the notebook, report, and reproducibility information for the BI2025 Data Analytics assignment, Group 13.
 
 ## Contents
 - `notebooks/`: final Jupyter notebook with the complete pipeline and KG provenance logging
